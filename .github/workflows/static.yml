@@ -3,7 +3,7 @@ name: fibonacci package push
 on:
   push:
     branches:
-      - main
+      - 
 
 jobs:
   build:
